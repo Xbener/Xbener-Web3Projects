@@ -27,8 +27,8 @@ As you can see here, I have participated in several DeFi, NFT projects on vairou
 <div>- Built smart contract for testing jupiter cpi, meteora cpi, drift cpi.</div>
 <div>- Built frontend/backend to check the result of delta neutral strategy.</div>
 
-- Frontend repo: <a href="https://github.com/microgift/delta-neutral-fe">delta-neutral-frontend</a>
-- Backend repo: <a href="https://github.com/microgift/delta-neutral">delta-neutral-backend</a>
+- Frontend repo: <a href="https://github.com/xbener/delta-neutral-fe">delta-neutral-frontend</a>
+- Backend repo: <a href="https://github.com/xbener/delta-neutral">delta-neutral-backend</a>
 
 <h3><u><strong><i>Pioneer Legends</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -43,7 +43,7 @@ As you can see here, I have participated in several DeFi, NFT projects on vairou
 - Frontend repo: <a href="https://github.com/pioneerlegends/pioneer-legends-frontend">Pioneer-legends-frontend</a>
 - Backend repo: <a href="https://github.com/pioneerlegends/pioneer-legends-backend">Pioneer-legends-backend</a>
 - Whitepaper repo: <a href="https://github.com/pioneerlegends/pioneer-legends-whitepaper">Pioneer-legends-whitepaper</a>
-- Smart contract repo: <a href="https://github.com/microgift/pioneerlegends-bank-sc">Pioneer-legends-bank-sc</a>
+- Smart contract repo: <a href="https://github.com/xbener/pioneerlegends-bank-sc">Pioneer-legends-bank-sc</a>
 
 
 <h3><u><strong><i>Reavers</i></strong></u> &nbsp;(Solana)</h3>
@@ -55,8 +55,8 @@ As you can see here, I have participated in several DeFi, NFT projects on vairou
 <div>- Optimized database calls.</div>
 
 - Live: <a href="https://reavers.xyz">Reavers</a>
-- Frontend repo: <a href="https://github.com/microgift/Reavers">Reavers-frontend</a>
-- Backend repo: <a href="https://github.com/microgift/reavers-cloud-functions">Reavers-backend</a>
+- Frontend repo: <a href="https://github.com/xbener/Reavers">Reavers-frontend</a>
+- Backend repo: <a href="https://github.com/xbener/reavers-cloud-functions">Reavers-backend</a>
 
 
 <h3><u><strong><i>Bulls vs Bears</i></strong></u> &nbsp;(Solana)</h3>
@@ -67,10 +67,10 @@ As you can see here, I have participated in several DeFi, NFT projects on vairou
 <div>Lead poker platform development.</div>
 
 - Live: <a href="https://goalpost.gg">BvB Goalpost</a>
-- Frontend repo: <a href="https://github.com/microgift/goal-post-frontend">Goalpost-frontend</a>
-- Backend repo: <a href="https://github.com/microgift/goal-post-backend">Goalpost-backend</a>
-- Socket repo: <a href="https://github.com/microgift/goal-post-socket">Goalpost-socket</a>
-- Contract repo: <a href="https://github.com/microgift/goal-post-contract">Goalpost-contract</a>
+- Frontend repo: <a href="https://github.com/xbener/goal-post-frontend">Goalpost-frontend</a>
+- Backend repo: <a href="https://github.com/xbener/goal-post-backend">Goalpost-backend</a>
+- Socket repo: <a href="https://github.com/xbener/goal-post-socket">Goalpost-socket</a>
+- Contract repo: <a href="https://github.com/xbener/goal-post-contract">Goalpost-contract</a>
 
 <h3><u><strong><i>Sprite Box</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -82,8 +82,8 @@ Spritebox is a minting platform that pixel artists can send there arts every wee
 
 - Live: <a href="https://spritebox.art">Spritebox</a>
 - Live backend: <a href="https://api.spritebox.art">Spritebox backend</a>
-- Frontend repo: <a href="https://github.com/microgift/spritebox">Spritebox-frontend</a>
-- Backend repo: <a href="https://github.com/microgift/sprite-box-backend">Spritebox-brontend</a>
+- Frontend repo: <a href="https://github.com/xbener/spritebox">Spritebox-frontend</a>
+- Backend repo: <a href="https://github.com/xbener/sprite-box-backend">Spritebox-brontend</a>
 
 
 <h3><u><strong><i>The Hoopas</i></strong></u> &nbsp;(Solana)</h3>
@@ -96,8 +96,8 @@ Built a site for locking Hoopas and Banana collection for 1 month, 3 months or 6
 
 - Live: <a href="https://dev.d3c0jk89ozv3l5.amplifyapp.com">The Hoopas</a>
 - Staking: <a href="https://lock.3pixl.com">The Hoopas Locking</a>
-- Contract program repo: <a href="https://github.com/microgift/hoopas-staking">Hoopas-lock-contract</a>
-- Frontend repo: <a href="https://github.com/microgift/hoopas">Hoopas-lock-frontend</a>
+- Contract program repo: <a href="https://github.com/xbener/hoopas-staking">Hoopas-lock-contract</a>
+- Frontend repo: <a href="https://github.com/xbener/hoopas">Hoopas-lock-frontend</a>
 
 <br/>
 
@@ -113,8 +113,8 @@ I built backend & smart contract as well as supported web3 integration to front-
 
 - Live: <a href="https://coffins.tombstoned.app/">Coffins - LootBox | TombStoned</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/microgift/tombstoned-lootbox-backend">Tombstoned-lootbox-backend</a>
-  - contract program repo: <a href="https://github.com/microgift/tombstoned-lootbox-program">Tombstoned-lootbox-program</a>
+  - backend repo: <a href="https://github.com/xbener/tombstoned-lootbox-backend">Tombstoned-lootbox-backend</a>
+  - contract program repo: <a href="https://github.com/xbener/tombstoned-lootbox-program">Tombstoned-lootbox-program</a>
 
 
 
@@ -128,8 +128,8 @@ I wrote smart contract and supported web3 integration to front-end.
 
 - Live: <a href="https://staking.soblins.io">Soblins staking</a>
 - Github repos: 
-  - smart contract repo: <a href="https://github.com/microgift/SoblinsStaking-SC">SoblinsStaking-contract</a>
-  - frontend repo: <a href="https://github.com/microgift/SoblinsStaking-FE">SoblinsStaking-frontend</a>
+  - smart contract repo: <a href="https://github.com/xbener/SoblinsStaking-SC">SoblinsStaking-contract</a>
+  - frontend repo: <a href="https://github.com/xbener/SoblinsStaking-FE">SoblinsStaking-frontend</a>
 
 
 <h3><u><strong><i>Monopoly</i></strong></u> &nbsp;(Solana)</h3>
@@ -144,9 +144,9 @@ I attended this project and wrote smart contract and supported on back-end/front
 
 - Live: <a href="https://www.monopoly.cafe">Monopoly</a>
 - Github repos: 
-  - smart contract repo: <a href="https://github.com/microgift/monopoly-program">monopoly-program</a>
-  - backend repo: <a href="https://github.com/microgift/monopoly-backend">monopoly-backend</a>
-  - frontend repo: <a href="https://github.com/microgift/monopoly-frontend">monopoly-frontend</a>
+  - smart contract repo: <a href="https://github.com/xbener/monopoly-program">monopoly-program</a>
+  - backend repo: <a href="https://github.com/xbener/monopoly-backend">monopoly-backend</a>
+  - frontend repo: <a href="https://github.com/xbener/monopoly-frontend">monopoly-frontend</a>
 
 
 
@@ -162,9 +162,9 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 
 - Live: <a href="https://degentaxi.io">Degen Taxi</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/microgift/taxi-crash-solana-backend">taxi-crash-solana-backend</a>
-  - smart contract repo: <a href="https://github.com/microgift/taxi-crash-solana-contract">taxi-crash-solana-contract</a>
-  - frontend repo: <a href="https://github.com/microgift/degen-taxi-frontend">degen-taxi-frontend</a>
+  - backend repo: <a href="https://github.com/xbener/taxi-crash-solana-backend">taxi-crash-solana-backend</a>
+  - smart contract repo: <a href="https://github.com/xbener/taxi-crash-solana-contract">taxi-crash-solana-contract</a>
+  - frontend repo: <a href="https://github.com/xbener/degen-taxi-frontend">degen-taxi-frontend</a>
 
 
 
